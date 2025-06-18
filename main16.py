@@ -42,3 +42,4 @@ c=input("enter the most imporatnat friend name ")
 d=int(input("enter the loaction at whoch youy wnat to add"))
 a.insert(d,c)
 print(a)
+123
